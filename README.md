@@ -50,7 +50,7 @@ This suggests that most of members are from the workforce who use bikes to commu
 **Recommendation:**
 Communting periods would be best to perform marketing campaigns targeting at members and off-peak hours are best for performing maintenance service.
 ### Visualization 4: Number of rides by hour and rider type
-![Number of rides by rider types at each hour](images/rides_by_rider_type/png)
+![Number of rides by rider types at each hour](images/rides_by_hour_and_rider_type/png)
 
 ## Files
 
