@@ -32,15 +32,29 @@ Understand differences between member and casual riders and identify opportuniti
 5. How do members and casual riders differ?
 
 ## Key Findings
+### 1. Members account for aroung 89% of the rides.
+**Recommendation:**
+Focus retention campaigns on existing members while converting casual riders.
+### Visualization 1: Number of Rides by Rider Type
+![Number of Rides by Rider Type](images/rides_by_rider_type.png)
+### Visualization 2: Distribution between member and casul riders
+![Rider distribuiton](images/member_vs_casual_distribution.png)
 
-- Members ride mostly during weekdays.
-- Casual riders ride more frequently on weekends.
-- Peak riding hours for members align with commuting periods.
-- Member usage suggests work and school commuting behavior.
+### 2. Members ride mostly during weekdays.
+### Visaulization 3: Number of rides by members in each day
+![Number of Rides by Members](images/member_rides_by_days.png)
+
+### 3.  Peak riding hours for members align with commuting periods.
+### Insight
+This suggests that most of members are from the workforce who use bikes to commute to their works daily.
+**Recommendation:**
+Communting periods would be best to perform marketing campaigns targeting at members and off-peak hours are best for performing maintenance service.
+### Visualization 4: Number of rides by hour and rider type
+![Number of rides by rider types at each hour](images/rides_by_rider_type/png)
 
 ## Files
 
-- Bike-share-analysis.ipynb : Complete analysis notebook
+- Bike-share-analysis-Q1.ipynb : Complete analysis notebook
 
 ## Author
 
