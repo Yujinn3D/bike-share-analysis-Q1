@@ -38,7 +38,7 @@ Focus retention campaigns on existing members while converting casual riders.
 ### Visualization 1: Number of Rides by Rider Type
 ![Number of Rides by Rider Type](images/rides_by_rider_type.png)
 ### Visualization 2: Distribution between member and casul riders
-![Rider distribuiton](images/member_vs_casual_distribution.png)
+![Rider distribution](images/member_vs_casual_distribution.png)
 
 ### 2. Members ride mostly during weekdays.
 ### Visaulization 3: Number of rides by members in each day
