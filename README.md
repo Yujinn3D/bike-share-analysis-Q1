@@ -1,6 +1,6 @@
-# bike-share-analysis-Q1
+# Bike-share-analysis-Q1
 Exploratory Data Analysis of Bike Share Trips using Python and Pandas
-# Bike Share Analysis Q1
+
 
 ## Project Overview
 
